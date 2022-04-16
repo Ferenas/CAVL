@@ -11,3 +11,4 @@ Partial-label learning (PLL) solves the multi-class classification problem, wher
 Train the model by running the following command directly. Remember to set the chosen dataset, model backbone and hyper-parameters in the script. 
     ```
     python main.py
+    ```
