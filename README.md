@@ -8,7 +8,7 @@ Partial-label learning (PLL) solves the multi-class classification problem, wher
 * The requirements are in **requirements.txt**. However, the settings are not limited to it (CUDA 11.0, Pytorch 1.7 for one RTX3090). 
 
 ## Usage
-Train the model by running the following command directly. Remember to set the chosen dataset, model backbone and hyper-parameters in the script. 
+1. Train the model by running the following command directly. Remember to set the chosen dataset, model backbone and hyper-parameters in the script. 
     ```
     python main.py
     ```
